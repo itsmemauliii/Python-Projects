@@ -50,7 +50,7 @@ Through these challenges, I strengthened my understanding of:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/control-flow-challenges.git
-   cd control-flow-challenges
+   cd Python-Projects
    ```
 2. Run each challenge file with Python:
    ```bash
