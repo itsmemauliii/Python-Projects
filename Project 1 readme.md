@@ -26,7 +26,7 @@ A fun and simple word-guessing game built with Python. Players guess letters to 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd word-guessing-game
+   cd Python-Projects  
    ```
 3. Run the game:
    ```bash
