@@ -62,7 +62,7 @@ This repository contains solutions for a series of loop-based programming challe
 
 2. Navigate to the project directory:
    ```bash
-   cd loops-challenge-pack
+   cd Python-Projects
    ```
 
 3. Run the Python scripts for each challenge:
