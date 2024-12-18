@@ -29,7 +29,7 @@ This is a simple **Horoscope Generator** built with Python. Users can input thei
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/horoscope-generator.git  
-   cd horoscope
+   cd Python-Projects
    ```  
 
 2. Run the Python script:  
