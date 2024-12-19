@@ -72,10 +72,12 @@ This project is licensed under the MIT License.
 
 ## 👩‍💻 Author  
 
-- **Your Name** - Developer and Music Lover 🎶  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
-- [GitHub](https://github.com/your-username)  
+- **Mauli Patel** - Tech Enthusiast and Music Lover 🎶  
 
+## Let's Connect! 🤝
+If you find these solutions helpful or want to collaborate on similar challenges, feel free to connect with me:
+- **LinkedIn**: https://www.linkedin.com/in/itsmemauliii
+- **GitHub**: https://github.com/itsmemauliii
 ---  
 
 ### 🎤 Let your mood choose your tune! Enjoy coding and listening! 
