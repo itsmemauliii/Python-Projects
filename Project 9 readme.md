@@ -16,7 +16,7 @@ A simple Python program that suggests songs based on your current mood. Whether 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/mood-music-recommender.git
-   cd mood-music-recommender
+   cd Python-Projects
    ```  
 
 2. Ensure you have Python 3.x installed.  
@@ -78,4 +78,12 @@ This project is licensed under the MIT License.
 
 ---  
 
-### 🎤 Let your mood choose your tune! Enjoy coding and listening! 🎶  
+### 🎤 Let your mood choose your tune! Enjoy coding and listening! 
+
+## 🙌 Acknowledgments  
+
+Inspired by my Python self-learning journey and small projects like this from platforms like **Codédex**.  
+
+---
+
+**Made with ❤️ and Python**  🎶  
