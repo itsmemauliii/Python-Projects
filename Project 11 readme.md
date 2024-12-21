@@ -52,10 +52,10 @@ This project showcases how to analyze and visualize holiday-related data using P
 
 ## Example Output
 ### Bar Chart: Holiday Costs
-![Holiday Costs Bar Chart](images/holiday_costs.png)
+![Holiday Costs Bar Chart](holiday_costs.png)
 
 ### Pie Chart: Holiday Days of the Week
-![Holiday Days Pie Chart](images/holiday_days.png)
+![Holiday Days Pie Chart](holiday_days.png)
 
 ---
 
