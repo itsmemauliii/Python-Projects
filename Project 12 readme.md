@@ -49,3 +49,7 @@ Day 7: Take a moment to appreciate your growth this year. 🌱
 
 🎆 Welcome 2025! 🎆
 Let's make it our best year yet! 🌟
+
+## Contact
+For any questions or feedback, feel free to reach out via LinkedIn or email.
+
