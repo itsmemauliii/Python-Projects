@@ -65,4 +65,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## Author
 
-Mauli Patel(https://github.com/itsmemauliii)
+Mauli Patel https://github.com/itsmemauliii
+
+Happy Coding! 😄
+**Made with ❤️ and Python**  
