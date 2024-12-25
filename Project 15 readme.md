@@ -112,3 +112,6 @@ Contributions are welcome! If you have ideas to improve this app, feel free to s
 ---
 
 ### 🎄 Merry Christmas and Happy Coding! 🎅✨
+
+Happy Coding! 😄
+**Made with ❤️ and Python** 
