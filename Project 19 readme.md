@@ -41,7 +41,7 @@ The project leverages Python's turtle graphics to draw Doraemon by combining geo
 2. Run the script to see Doraemon come to life in the Turtle Graphics window.  
 
 ## Screenshots  
-![Doraemon with Python Turtle](path/to/screenshot.png)  
+![Doraemon with Python Turtle](path/to/https://github.com/itsmemauliii/Python-Projects/blob/main/Doremon%20with%20Python%20Turtle.png)  
 
 ## Contributing  
 Contributions are welcome!  
